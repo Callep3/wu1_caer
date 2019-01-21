@@ -37,7 +37,7 @@
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Text -SHARK
+##### Text - COD GRAY
 ###### Användningsområde
 ###### HEX - #171717: ![alt-text](https://via.placeholder.com/20/171717/171717?Text=%20 "#171717")
 
