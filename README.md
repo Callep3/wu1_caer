@@ -2,39 +2,44 @@
 *Carl Erlandsson*
 
 ## Bakgrund
+##### Jag ska göra en blogg-ich hemsida som handlar om Divinity: Original Sin 2 vilket är nog mitt favorit spel.
 
 ## Planering
 ### Innehåll
+##### Jag vill ha med olika builds jag har, med andra ord var jag lägger mina attribute points, civil points, talents etc. Jag tänker dock inte lägga in Armor utan ha mer vilka stats man borde fokusera på som t.ex. hydrosophist över pyrokinetic.
+
 ### Layout
+##### 
+
 ### Färgval
 
-##### Bakgrund - DAWN PINK
+##### Bakgrund - MERCURY
 ###### Användningsområde
-###### HEX - #F0E7DC: ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### HEX - #E7E7E7: ![alt-text](https://via.placeholder.com/20/E7E7E7/E7E7E7?Text=%20 "#E7E7E7")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Element - DE YORK
+##### Element - SUNDANCE
 ###### Användningsområde
-###### HEX - #76c187: ![alt-text](https://via.placeholder.com/20/76c187/76c187?Text=%20 "#76c187")
+###### HEX - #CEA15D: ![alt-text](https://via.placeholder.com/20/CEA15D/CEA15D?Text=%20 "#CEA15D")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Huvudsaklig färg - VIRIDIAN GREEN
+##### Huvudsaklig färg - TE PAPA GREEN
 ###### Användningsområde
-###### HEX - #5f877e: ![alt-text](https://via.placeholder.com/20/5f877e/5f877e?Text=%20 "#5f877e")
+###### HEX - #1F3841: ![alt-text](https://via.placeholder.com/20/1F3841/1F3841?Text=%20 "#1F3841")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Beteende - CLAY CREEK
+##### Beteende - CASAL
 ###### Användningsområde
-###### HEX - #807e61: ![alt-text](https://via.placeholder.com/20/807e61/807e61?Text=%20 "#807e61")
+###### HEX - #325B69: ![alt-text](https://via.placeholder.com/20/325B69/325B69?Text=%20 "#325B69")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
 ##### Text -SHARK
 ###### Användningsområde
-###### HEX - #1a1a21: ![alt-text](https://via.placeholder.com/20/1a1a21/1a1a21?Text=%20 "#1a1a21")
+###### HEX - #171717: ![alt-text](https://via.placeholder.com/20/171717/171717?Text=%20 "#171717")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
