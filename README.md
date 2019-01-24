@@ -10,7 +10,7 @@ Jag tänker ha med mina character sheets och updatera dem om jag kör campain me
 
 ### Layout
 Layout: ![alt-text](https://github.com/Callep3/wu1_caer/blob/master/planing/images/Basic%20layout%20Webb.PNG)
-Home Screen:      ![alt-text](https://raw.githubusercontent.com/Callep3/wu1_caer/master/planing/images/Home%20Screen%20Webb.png)
+Home Screen: ![alt-text](https://raw.githubusercontent.com/Callep3/wu1_caer/master/planing/images/Home%20Screen%20Webb.png)
 
 ### Färgval
 
@@ -46,11 +46,11 @@ Home Screen:      ![alt-text](https://raw.githubusercontent.com/Callep3/wu1_caer
 
 ### Typsnitt
 ##### Rubrik
-Old London:https://www.dafont.com/old-london.font?l[]=10&l[]=1
+Old London: https://www.dafont.com/old-london.font?l[]=10&l[]=1
 ##### Text
-
+Serif
 
 ### Mockup
-
+https://xd.adobe.com/view/bcfd8fe5-d33c-4b4f-7394-baf1cfcb9d4e-cacc/
 
 ### Tillgänglighet
