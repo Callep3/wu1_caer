@@ -54,3 +54,4 @@ Serif
 https://xd.adobe.com/view/bcfd8fe5-d33c-4b4f-7394-baf1cfcb9d4e-cacc/
 
 ### Tillgänglighet
+Jag bryr mig mest om att den ska funka på Google Chrome, Firefox och Safari. För Google Chrome är väldigt använt och hemma använder jag Firefox (mitt chrome ljud funkar inte). Eftersom telefoner används troligen mycket mer än datorer nu för tiden så kan det vara bra om man kan använda hemsidan via telefon eller "Safari".
