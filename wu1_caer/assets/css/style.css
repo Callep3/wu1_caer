@@ -1,0 +1,386 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+}
+
+body {
+    background-color: #E7E7E7;
+    color: #333;
+    height: 2000px;
+}
+
+.bg-image {
+    background: #E7E7E7 url("../../planing/images/Dragon.jpg") no-repeat fixed center;
+    color: inherit;
+}
+
+.Navbar {
+    float:left;
+    position:relative;
+    z-index: 10;
+}
+
+.Text-box {
+    left: 2%;
+    min-height: 100%;
+    padding-left: 0vh;
+    padding-right: 0vh;
+    position: absolute;
+    top: 0.7vh;
+    width: 96%;
+    z-index: 2;
+}
+
+
+h1, h2, p, .Text {
+    background-color: inherit;
+    color: #171717;
+}
+
+h1 {
+    background-color: inherit;
+    color: #000000;
+    font-family: 'OldLondon', 'Times New Roman', serif;
+    font-size: 7vh;
+    text-align: center;
+}
+
+.message h1 {
+    font-family: serif;
+}
+
+.title {
+    background-color: inherit;
+    color: #CEA15D;
+    font-family: 'OldLondon', 'Times New Roman', serif;
+    font-size: 5vh;
+    text-align: center;
+    text-shadow: 0.3vh 0.3vh #000000;
+    z-index: 10;
+}
+
+ul, #RightButton{
+    background-color: #1F3841;
+    color: inherit;
+    font-size: 2vh;
+    list-style-type: none;
+    margin: 0vh;
+    overflow: hidden;
+    padding: 0.5vh;
+    top: 0vh;
+    z-index: 10;
+}
+
+#LeftButtons li {
+    float: left;
+    z-index: 10;
+}
+
+li a, a {
+    background-color: inherit;
+    color: #CEA15D;
+    display: block;
+    padding: 3.6vh 5vh;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover,  #RightButton a:hover, .DnDirectory a:hover, .Odd_Buttons a:hover, .Even_Buttons a:hover, .backButtons a:hover, .Battle_Devil a:hover, .Alterari a:hover {
+    background-color: #325B69;
+    color: #CEA15D;
+}
+
+#Navbarbar {
+    background-color:  #1F3841;
+    border-color: #1F3841;
+    border-style: solid;
+    color: inherit;
+    height: 9.1vh;
+    left: 0vh;
+    position: fixed;
+    top: 0vh;
+    width: 100%;
+    z-index: 10;
+}
+
+.Datum {
+    left: 85%;
+    width: 10%;
+    position: fixed;
+    text-align: center;
+    top: 90%;
+    z-index: 10;
+}
+
+#LeftButtons, #TitleButton, #RightButton, li a {
+    height: 9vh;
+}
+
+#LeftButtons {
+    left: -1vh;
+    position: fixed;
+    top: -1vh;
+    width: 100%;
+    z-index: 10;
+}
+
+#TitleButton {
+    left: 40%;
+    position: fixed;
+    top: -2.5vh;
+    width: 40vh;
+    z-index: 10;
+}
+
+#RightButton {
+    margin-right: 0.5vh;
+    position: fixed;
+    right: -0.825vh;
+    top: -1vh;
+    z-index: 10;
+}
+
+.container {
+    background-color: inherit;
+    border-left: 0.3vh solid black;
+    border-right: 0.3vh solid black;
+    height: 94%;
+    left: 20%;
+    position: relative;
+    top: 10vh;
+    width: 60%;
+    z-index: 1;
+}
+
+.rightContainer {
+    background-color: inherit;
+    height: 94%;
+    left: 80%;
+    position: absolute;
+    top: 10vh;
+    width: 20%;
+    z-index: 1;
+}
+
+.backButtons .Characters {
+    background-color: #1F3841;
+    color: #CEA15D;
+    font-size: 2vh;
+    height: 5%;
+    left: 85%;
+    position: fixed;
+    top: 15vh;
+    width: 10%;
+    z-index: 2;
+}
+
+.Characters, .Campain, .Homebrew{
+    background-color: #1F3841;
+    color: #CEA15D;
+    font-size: 3vh;
+    height: 5%;
+    left: 25%;
+    position: absolute;
+    width: 50%;
+    z-index: 2;
+}
+
+.Battle_Devil a{
+    top: 25vh;
+}
+
+.Alterari a{
+    top: 10vh;
+}
+
+.Characters {
+    top: 45vh;
+}
+
+.Campain {
+    top: 60vh;
+}
+
+.Homebrew {
+    top: 75vh;
+}
+
+.Alterari a, .Battle_Devil a {
+    background-color: #1F3841;
+    color: #CEA15D;
+    font-size: 3vh;
+    height: 14vh;
+    left: 25%;
+    padding: 5vh;
+    position: absolute;
+    width: 50%;
+    z-index: 2;
+}
+
+a.active {
+    background-color: #325B69;
+    color: #CEA15D;
+}
+
+.slideshow-container {
+    width: 50%;
+    left: 25%;
+    margin: auto;
+    position: absolute;
+    top: 12vh;
+    z-index: 4;
+}
+
+.mySlides {
+    display: none;
+}
+
+img {
+    vertical-align: middle;
+    width: 100%;
+}
+
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
+
+.character1 a, .character3 a, .character5 a, .character7 a, .character9 a, .stats, .features{
+    background-color: #1F3841;
+    color: #CEA15D;
+    font-size: 3vh;
+    height: 9.7vh;
+    left: 1%;
+    padding: 3vh;
+    position: absolute;
+    width: 48.5%;
+    z-index: 2;
+}
+
+.character2 a, .character4 a, .character6 a, .character8 a, .character10 a, .description, .spells{
+    background-color: #1F3841;
+    color: #CEA15D;
+    font-size: 3vh;
+    height: 9.7vh;
+    padding: 3vh;
+    position: absolute;
+    right: 1%;
+    width: 48.5%;
+    z-index: 2;
+}
+
+.text {
+    font-family: 'OldLondon', 'Times New Roman', serif;
+    margin-top: 0vh;
+    text-align: center;
+}
+
+.character1 a, .character2 a{
+    top: 2vh;
+}
+
+.character3 a, .character4 a {
+    top: 16vh;
+}
+
+.character5 a, .character6 a {
+    top: 30vh;
+}
+
+.character7 a, .character8 a {
+    top: 44vh;
+}
+
+.character9 a, .character10 a {
+    top: 58vh;
+}
+
+.characterImage {
+    border: 0.3vh 0.3vh black;
+    border-style: solid;
+    margin-left: 2vh;
+}
+
+.thalai {
+    width: 25vh;
+}
+
+.varis, .xadia, .lados {
+    margin-left: 10vh;
+    width: 15vh;
+}
+
+.characterName p {
+    font-size: 5vh;
+    margin-left: 30%;
+    margin-top: -15%;
+}
+
+.characterDefinition {
+    margin-left: 30%;
+}
+
+.stats, .description, .features, .spells {
+    padding: 3vh 1vh;
+    text-align: center;
+}
+
+.stats, .description {
+    margin-top: 20vh;
+}
+
+.features, .spells {
+    margin-top: 30vh;
+    z-index: 2;
+}
+
+.characterStats, .characterDescription, .characterFeatures, .characterSpells {
+    display: none;
+    margin-left: 0%;
+    position: absolute;
+    width: 90%;
+}
+
+.characterStats, .characterDescription, .characterFeatures, .characterSpells {
+    top: 0vh;
+}
+
+.dropdown {
+    display: block;
+}
+
+.dropdown-content {
+    display: none;
+    background-color: inherit;
+    margin-left: -1vh;
+    margin-top: 7vh;
+    min-width: 100%;
+    padding: 1vh 1vh;
+    z-index: 8;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.Contact {
+    width: 60%;
+}
