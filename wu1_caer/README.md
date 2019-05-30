@@ -19,3 +19,8 @@ Här ser du mina html filer på validator.nu, alla visar exakt samma sak föruto
 ![alt-text](https://github.com/Callep3/wu1_caer/blob/master/wu1_caer/documentation/Tasks_html_validation.PNG)
 
 ![alt-text](https://github.com/Callep3/wu1_caer/blob/master/wu1_caer/documentation/Tasks_html_lang%3Deng.PNG)
+
+![alt-text](https://github.com/Callep3/wu1_caer/blob/master/wu1_caer/documentation/Compatibility.PNG)
+Här ser du compatibiliteten mellan Internet Explorer, Microsoft Edge, Opera och Firefox. Jag har testat allt och det är som det ska vara på alla de olika webbläsarna ända problem jag hittade var att Homebrewery inte gillade firefox för där blev texten inte aligned center.
+Tror inte det är nödvändigt att visa att det funkar I Google Chrome eftersom det är där jag har arbetat med den I första hand men jag lägger till en bild på det längst ner.
+![alt-text](https://github.com/Callep3/wu1_caer/blob/master/wu1_caer/documentation/Google%20Chrome.PNG)
